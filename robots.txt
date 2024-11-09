@@ -1,0 +1,5 @@
+﻿User-agent: *
+Allow: /
+
+
+Sitemap: https://diliofficecleaning.xyz/sitemap_index.xml
